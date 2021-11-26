@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 28.05.2021 23:00   |    10      |
+| 12.12.2021 23:00   |    10      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -58,9 +58,9 @@ Rejestr powinien umożliwić realizację następujących zadań:
 - dodanie dowolnego z typów pracownika do rejestru
 - usunięcie pracownika o danym identyfikatorze pracowniczym z rejestru
 - dodanie kilku pracowników o różnych typach na raz do rejestru
-- wyświetlenie listy wszystkich pracowników posortowanych po liczbie lat doświadczenia (malejąco),
- następnie po wieku pracownika (rosnąco), 
- następnie po nazwisku pracownika (zgodnie z kolejnością alfabetyczną)
+- wyświetlenie listy wszystkich pracowników posortowanych po liczbie lat doświadczenia (malejąco)
+- wyświetlenie listy wszystkich pracowników posortowanych po wieku pracownika (rosnąco)
+- wyświetlenie listy wszystkich pracowników posortowanych po nazwisku pracownika (zgodnie z kolejnością alfabetyczną)
 - wyświetlenie listy pracowników, którzy pracują w mieście po nazwie podanej 
  jako parametr wejściowy
 - wyświetlenie listy wszystkich pracowników wraz  z ich wartością dla korporacji, 
